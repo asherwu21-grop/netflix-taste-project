@@ -1,0 +1,338 @@
+event_id,member_id,title_id,event_datetime,watch_seconds,completed,device_type,country,profile_type,title_id_original,completed_original,completion_recomputed,completion_changed,completion_threshold,runtime_seconds,title_name,title_type,primary_genre,secondary_genre,runtime_minutes,maturity_rating,release_date,is_new_series,exclusion_reasons,disposition,dataset_split
+EV-000125,M-10475,TT-0238,2026-11-10,1778,False,tv,BR,standard,TT-0238,True,True,True,0.9,2880,Vintage Garage Race,series,Reality,Documentary,48,TV-PG,2017-08-04,false,,model_ready,holdout
+EV-000178,M-10166,TT-0081,2026-11-10,2425,False,tv,US,standard,TT-0081,True,True,True,0.9,6720,Counterfeit Harbor,film,Crime,Thriller,112,PG-13,2018-10-05,false,,model_ready,holdout
+EV-000390,M-10462,TT-0237,2026-11-10,2573,False,web,Unknown,standard,TT-0237,True,True,True,0.9,5700,Lodge Season,film,Reality,Romance,95,PG,2019-12-20,false,,model_ready,holdout
+EV-000454,M-10178,TT-0026,2026-11-10,708,False,tv,US,standard,TT-0026,False,True,False,0.9,1440,Parking Lot Philosophers,series,Comedy,Reality,24,TV-PG,2017-09-05,false,,model_ready,holdout
+EV-000713,M-10550,TT-0259,2026-11-10,3319,True,mobile,IN,kids,TT-0259,True,True,False,0.9,2640,The Quiet Ferryman,series,Fantasy,Drama,44,TV-14,2015-07-17,false,,model_ready,holdout
+EV-000722,M-10168,TT-0078,2026-11-10,3367,True,tv,IN,standard,TT-0078,False,True,True,0.9,2640,Dead Letter Drop,series,Crime,Thriller,44,TV-MA,2016-11-08,false,,model_ready,holdout
+EV-000952,M-10510,TT-0254,2026-11-10,754,False,tv,US,standard,TT-0254,True,True,True,0.9,3480,Harrowgate Oath,series,Fantasy,Drama,58,TV-MA,2026-03-12,false,,model_ready,holdout
+EV-001048,M-10552,TT-0276,2026-11-10,2763,True,tv,DE,standard,TT-0276,False,True,True,0.9,1320,Gravity Well Garage,series,Sci-Fi,,22,TV-Y7,2016-07-08,false,,model_ready,holdout
+EV-001127,M-10181,TT-0176,2026-11-10,1276,False,tv,GB,standard,TT-0176,False,True,False,0.9,2640,Sky Marshal Nine,series,Action,Thriller,44,TV-14,2021-09-29,false,,model_ready,holdout
+EV-001134,M-10303,TT-0153,2026-11-10,854,False,mobile,ES,standard,TT-0153,False,True,False,0.9,6720,Cold Tenant,film,Horror,Thriller,112,R,2024-10-18,false,,model_ready,holdout
+EV-001143,M-10035,TT-0014,2026-11-10,3422,True,tv,BR,standard,TT-0014,False,True,True,0.9,2940,Tangled Current,series,Drama,Thriller,49,TV-MA,2024-09-27,false,,model_ready,holdout
+EV-001407,M-10060,TT-0028,2026-11-10,1648,False,tv,BR,standard,TT-0028,False,True,False,0.9,1860,Table for Nine Strangers,series,Comedy,Romance,31,TV-14,2020-11-27,false,,model_ready,holdout
+EV-001507,M-10341,TT-0171,2026-11-10,1752,False,tv,Unknown,standard,TT-0171,True,True,True,0.9,7080,Ironclad Tide,film,Action,Thriller,118,R,2019-03-15,false,,model_ready,holdout
+EV-001545,M-10184,TT-0081,2026-11-10,161,False,web,US,standard,TT-0081,False,True,False,0.9,6720,Counterfeit Harbor,film,Crime,Thriller,112,PG-13,2018-10-05,false,,model_ready,holdout
+EV-001560,M-10583,TT-0278,2026-11-10,1439,False,tv,GB,kids,TT-0278,False,True,False,0.9,3480,Synthetic Saints,series,Sci-Fi,Fantasy,58,TV-MA,2021-12-03,false,,model_ready,holdout
+EV-001649,M-10173,TT-0087,2026-11-10,2328,False,mobile,US,standard,TT-0087,True,True,True,0.9,6480,Sealed Warrant,film,Crime,,108,R,2026-03-20,false,,model_ready,holdout
+EV-001665,M-10176,TT-0079,2026-11-10,1515,False,mobile,US,standard,TT-0079,False,True,False,0.9,6060,Parole Hours,film,Crime,Drama,101,R,2020-05-29,false,,model_ready,holdout
+EV-001776,M-10211,TT-0113,2026-11-10,2612,True,tv,FR,standard,TT-0113,True,True,False,0.9,1560,Orchard Hours,series,Documentary,,26,TV-G,2020-09-15,false,,model_ready,holdout
+EV-001871,M-10237,TT-0107,2026-11-10,2494,True,tv,US,standard,TT-0107,False,True,True,0.9,2760,Night Shift Medics,series,Documentary,Drama,46,TV-14,2023-10-06,false,,model_ready,holdout
+EV-001954,M-10347,TT-0152,2026-11-10,3479,True,mobile,IN,standard,TT-0152,True,True,False,0.9,3000,Lowtide Mercy,series,Horror,Drama,50,TV-MA,2017-10-27,false,,model_ready,holdout
+EV-001955,M-10174,TT-0078,2026-11-10,353,False,tv,US,standard,TT-0078,True,True,True,0.9,2640,Dead Letter Drop,series,Crime,Thriller,44,TV-MA,2016-11-08,false,,model_ready,holdout
+EV-002213,M-10204,TT-0103,2026-11-10,763,False,tv,Unknown,standard,TT-0103,False,True,False,0.9,1800,The Long Table,series,Documentary,Comedy,30,TV-14,2022-11-18,false,,model_ready,holdout
+EV-002350,M-10243,TT-0103,2026-11-10,2378,True,web,US,standard,TT-0103,True,True,False,0.9,1800,The Long Table,series,Documentary,Comedy,30,TV-14,2022-11-18,false,,model_ready,holdout
+EV-002433,M-10435,TT-0204,2026-11-10,2748,True,tv,MX,kids,TT-0204,True,True,False,0.9,1800,Harbor Lights Detectives,series,Animation,Crime,30,TV-PG,2018-10-11,false,,model_ready,holdout
+EV-002524,M-10144,TT-0064,2026-11-10,96,False,tv,CA,standard,TT-0064,False,True,False,0.9,6720,Second Pulse,film,Thriller,Romance,112,R,2017-02-14,false,,model_ready,holdout
+EV-002551,M-10030,TT-0001,2026-11-10,3407,False,tv,MX,standard,TT-0001,False,True,False,0.9,7080,The Salt Ledger,film,Drama,Thriller,118,R,2019-03-08,false,,model_ready,holdout
+EV-002562,M-10152,TT-0085,2026-11-10,3453,False,tv,BR,standard,TT-0085,True,True,True,0.9,7800,Quarry Road,film,Crime,,130,R,2021-04-16,false,,model_ready,holdout
+EV-002580,M-10317,TT-0162,2026-11-10,1343,False,tv,CA,standard,TT-0162,False,True,False,0.9,3180,Siren Bellows,series,Horror,Thriller,53,TV-MA,2018-10-16,false,,model_ready,holdout
+EV-002759,M-10465,TT-0230,2026-11-10,1349,False,tv,US,standard,TT-0230,False,True,False,0.9,2640,Island Chef Exile,series,Reality,Drama,44,TV-14,2021-02-26,false,,model_ready,holdout
+EV-002820,M-10094,TT-0043,2026-11-10,384,False,web,US,standard,TT-0043,False,True,False,0.9,5340,Half Marathon Hopes,film,Comedy,Documentary,89,PG,2017-04-28,false,,model_ready,holdout
+EV-002903,M-10127,TT-0061,2026-11-10,1733,False,tv,US,standard,TT-0061,False,True,False,0.9,3300,Crosswind,series,Thriller,Action,55,TV-MA,2024-08-08,false,,model_ready,holdout
+EV-002983,M-10339,TT-0076,2026-11-10,2751,False,tv,US,standard,TT-0076,True,True,True,0.9,3120,Cold Brass Street,series,Crime,,52,TV-14,2017-06-22,false,,model_ready,holdout
+EV-003092,M-10338,TT-0175,2026-11-10,2730,False,tv,CA,standard,TT-0175,True,True,True,0.9,6300,Night Convoy,film,Action,Crime,105,R,2024-05-17,false,,model_ready,holdout
+EV-003153,M-10474,TT-0235,2026-11-10,627,False,tablet,FR,standard,TT-0235,False,True,False,0.9,2940,Antique Appraisal Duel,series,Reality,Documentary,49,TV-PG,2020-05-14,false,,model_ready,holdout
+EV-003191,M-10048,TT-0009,2026-11-10,561,False,mobile,US,standard,TT-0009,False,True,False,0.9,6660,The Ferryman's Daughter,film,Drama,Fantasy,111,PG-13,2020-05-22,false,,model_ready,holdout
+EV-003277,M-10344,TT-0174,2026-11-10,2417,False,mobile,US,standard,TT-0174,True,True,True,0.9,3120,Concrete Saints,series,Action,Drama,52,TV-MA,2017-11-03,false,,model_ready,holdout
+EV-003361,M-10205,TT-0109,2026-11-10,1967,False,tv,GB,standard,TT-0109,True,True,True,0.9,7080,Border Interpreters,film,Documentary,Thriller,118,R,2025-02-14,false,,model_ready,holdout
+EV-003722,M-10104,TT-0058,2026-11-10,1981,False,tv,IN,kids,TT-0058,True,True,True,0.9,6540,The Night Shift Ledger,film,Thriller,Crime,109,R,2025-10-09,false,,model_ready,holdout
+EV-003737,M-10112,TT-0057,2026-11-10,2152,False,tv,BR,standard,TT-0057,True,True,True,0.9,2640,Paper Alibi,series,Thriller,Crime,44,TV-MA,2022-06-15,false,,model_ready,holdout
+EV-003781,M-10326,TT-0153,2026-11-10,2193,False,mobile,US,standard,TT-0153,False,True,False,0.9,6720,Cold Tenant,film,Horror,Thriller,112,R,2024-10-18,false,,model_ready,holdout
+EV-003782,M-10550,TT-0261,2026-11-10,1996,False,tv,BR,standard,TT-0261,False,True,False,0.9,5460,Iron Hedgehog Quest,film,Fantasy,,91,PG,2017-06-02,false,,model_ready,holdout
+EV-003827,M-10033,TT-0003,2026-11-10,3225,False,tv,MX,standard,TT-0003,True,True,True,0.9,5760,Low Tide Hearts,film,Drama,Romance,96,TV-14,2016-09-30,false,,model_ready,holdout
+EV-003894,M-10134,TT-0026,2026-11-10,341,False,web,US,standard,TT-0026,True,True,True,0.9,1440,Parking Lot Philosophers,series,Comedy,Reality,24,TV-PG,2017-09-05,false,,model_ready,holdout
+EV-003970,M-10064,TT-0049,2026-11-10,899,False,tv,US,standard,TT-0049,False,True,False,0.9,2880,The Cold Ferry,series,Thriller,Crime,48,TV-MA,2019-03-14,false,,model_ready,holdout
+EV-003996,M-10584,TT-0286,2026-11-10,1423,False,web,US,standard,TT-0286,False,True,False,0.9,5040,Coralline,film,Sci-Fi,Animation,84,PG,2019-12-13,false,,model_ready,holdout
+EV-004138,M-10496,TT-0227,2026-11-10,1590,False,tv,US,standard,TT-0227,False,True,False,0.9,3120,Ice Road Confessions,series,Reality,Documentary,52,TV-14,2019-12-11,false,,model_ready,holdout
+EV-004281,M-10058,TT-0051,2026-11-10,3315,True,mobile,JP,standard,TT-0051,False,True,True,0.9,2580,Nine Minutes Past,series,Thriller,,43,TV-14,2017-11-22,false,,model_ready,holdout
+EV-004359,M-10555,TT-0276,2026-11-10,3564,True,tv,DE,standard,TT-0276,True,True,False,0.9,1320,Gravity Well Garage,series,Sci-Fi,,22,TV-Y7,2016-07-08,false,,model_ready,holdout
+EV-004443,M-10199,TT-0084,2026-11-10,736,False,tv,MX,standard,TT-0084,False,True,False,0.9,2520,Open Grave Files,series,Crime,Horror,42,TV-MA,2025-10-10,false,,model_ready,holdout
+EV-004523,M-10257,TT-0130,2026-11-10,1972,False,tv,US,standard,TT-0130,True,True,True,0.9,2280,Ink and Tides,series,Romance,Drama,38,TV-14,2024-05-17,false,,model_ready,holdout
+EV-004657,M-10139,TT-0061,2026-11-10,2364,False,tv,US,standard,TT-0061,True,True,True,0.9,3300,Crosswind,series,Thriller,Action,55,TV-MA,2024-08-08,false,,model_ready,holdout
+EV-004746,M-10043,TT-0017,2026-11-10,838,False,mobile,GB,standard,TT-0017,False,True,False,0.9,3480,The Grey Hour,series,Drama,Crime,58,TV-MA,2023-04-21,false,,model_ready,holdout
+EV-004791,M-10025,TT-0001,2026-11-10,2952,False,Unknown,IN,standard,TT-0001,False,True,False,0.9,7080,The Salt Ledger,film,Drama,Thriller,118,R,2019-03-08,false,,model_ready,holdout
+EV-004963,M-10456,TT-0230,2026-11-10,661,False,tv,IN,standard,TT-0230,False,True,False,0.9,2640,Island Chef Exile,series,Reality,Drama,44,TV-14,2021-02-26,false,,model_ready,holdout
+EV-000134,M-10598,TT-0280,2026-11-11,3013,False,tablet,US,standard,TT-0280,True,True,True,0.9,6360,Paper Moons,film,Sci-Fi,Romance,106,PG-13,2023-02-10,false,,model_ready,holdout
+EV-000166,M-10173,TT-0082,2026-11-11,2519,False,tablet,US,standard,TT-0082,True,True,True,0.9,3000,Glass Mile,series,Crime,,50,TV-MA,2024-01-19,false,,model_ready,holdout
+EV-000289,M-10465,TT-0230,2026-11-11,1492,False,tv,IN,standard,TT-0230,False,True,False,0.9,2640,Island Chef Exile,series,Reality,Drama,44,TV-14,2021-02-26,false,,model_ready,holdout
+EV-000531,M-10004,TT-0004,2026-11-11,66,False,tv,US,standard,TT-0004,False,True,False,0.9,3300,Ashes of Meridian,series,Drama,Crime,55,TV-MA,2022-08-19,false,,model_ready,holdout
+EV-000553,M-10071,TT-0042,2026-11-11,2765,True,tv,MX,standard,TT-0042,True,True,False,0.9,1620,Cheese Board Champions,series,Comedy,,27,TV-PG,2022-03-30,false,,model_ready,holdout
+EV-000819,M-10180,TT-0079,2026-11-11,2857,False,tv,US,standard,TT-0079,False,True,False,0.9,6060,Parole Hours,film,Crime,Drama,101,R,2020-05-29,false,,model_ready,holdout
+EV-000899,M-10224,TT-0115,2026-11-11,2229,True,tv,US,standard,TT-0115,True,True,False,0.9,1860,Backstage Wardrobe,series,Documentary,Comedy,31,TV-14,2024-06-07,false,,model_ready,holdout
+EV-001043,M-10521,TT-0259,2026-11-11,1259,False,Unknown,DE,standard,TT-0259,False,True,False,0.9,2640,The Quiet Ferryman,series,Fantasy,Drama,44,TV-14,2015-07-17,false,,model_ready,holdout
+EV-001151,M-10595,TT-0276,2026-11-11,1391,True,tv,GB,standard,TT-0276,True,True,False,0.9,1320,Gravity Well Garage,series,Sci-Fi,,22,TV-Y7,2016-07-08,false,,model_ready,holdout
+EV-002086,M-10598,TT-0289,2026-11-11,842,False,web,US,standard,TT-0289,False,True,False,0.9,1800,Glasshouse Relay,series,Sci-Fi,Comedy,30,TV-14,2025-09-19,false,,model_ready,holdout
+EV-002289,M-10330,TT-0151,2026-11-11,3563,True,mobile,US,standard,TT-0151,True,True,False,0.9,2640,Hexmarket,series,Horror,Fantasy,44,TV-14,2022-10-14,false,,model_ready,holdout
+EV-002426,M-10313,TT-0151,2026-11-11,2014,False,mobile,GB,standard,TT-0151,True,True,True,0.9,2640,Hexmarket,series,Horror,Fantasy,44,TV-14,2022-10-14,false,,model_ready,holdout
+EV-002535,M-10107,TT-0061,2026-11-11,1216,False,tv,US,standard,TT-0061,False,True,False,0.9,3300,Crosswind,series,Thriller,Action,55,TV-MA,2024-08-08,false,,model_ready,holdout
+EV-002564,M-10007,TT-0276,2026-11-11,277,False,tv,US,standard,TT-0276,False,True,False,0.9,1320,Gravity Well Garage,series,Sci-Fi,,22,TV-Y7,2016-07-08,false,,model_ready,holdout
+EV-002651,M-10211,TT-0105,2026-11-11,2792,True,tv,US,standard,TT-0105,True,True,False,0.9,2820,Dust on the Dial,series,Documentary,,47,TV-PG,2024-01-26,false,,model_ready,holdout
+EV-002748,M-10297,TT-0130,2026-11-11,3097,True,tv,US,standard,TT-0130,True,True,False,0.9,2280,Ink and Tides,series,Romance,Drama,38,TV-14,2024-05-17,false,,model_ready,holdout
+EV-002849,M-10175,TT-0086,2026-11-11,934,False,tablet,FR,standard,TT-0086,False,True,False,0.9,3300,Blue Lantern Court,series,Crime,Drama,55,TV-14,2019-12-06,false,,model_ready,holdout
+EV-002975,M-10158,TT-0081,2026-11-11,3166,False,mobile,US,standard,TT-0081,True,True,True,0.9,6720,Counterfeit Harbor,film,Crime,Thriller,112,PG-13,2018-10-05,false,,model_ready,holdout
+EV-002996,M-10361,TT-0190,2026-11-11,2538,False,tv,BR,standard,TT-0190,True,True,True,0.9,2880,Deep Water Protocol,series,Action,Thriller,48,TV-MA,2016-05-19,false,,model_ready,holdout
+EV-003084,M-10168,TT-0090,2026-11-11,3523,False,tv,GB,standard,TT-0090,True,True,True,0.9,5640,The Last Confession Tape,film,Crime,,94,R,2020-11-13,false,,model_ready,holdout
+EV-003168,M-10470,TT-0232,2026-11-11,1624,True,tv,US,standard,TT-0232,True,True,False,0.9,1800,Puppy Rescue Week,series,Reality,Documentary,30,TV-G,2018-11-08,false,,model_ready,holdout
+EV-003217,M-10044,TT-0003,2026-11-11,1621,False,tv,FR,standard,TT-0003,True,True,True,0.9,5760,Low Tide Hearts,film,Drama,Romance,96,TV-14,2016-09-30,false,,model_ready,holdout
+EV-003218,M-10023,TT-0023,2026-11-11,2297,False,tablet,IN,standard,TT-0023,True,True,True,0.9,6480,Border Bread,film,Drama,Documentary,108,TV-14,2020-02-28,false,,model_ready,holdout
+EV-003532,M-10105,TT-0053,2026-11-11,229,False,tv,JP,standard,TT-0053,False,True,False,0.9,3120,The Quiet Bidder,series,Thriller,Crime,52,TV-MA,2020-01-10,false,,model_ready,holdout
+EV-003657,M-10441,TT-0213,2026-11-11,789,False,tablet,DE,kids,TT-0213,False,True,False,0.9,1440,Grandpa's Robot Garden,series,Animation,Comedy,24,TV-Y,2016-08-19,false,,model_ready,holdout
+EV-003693,M-10195,TT-0088,2026-11-11,2579,True,mobile,CA,standard,TT-0088,False,True,True,0.9,1800,Night Bus Syndicate,series,Crime,Comedy,30,TV-14,2017-02-10,false,,model_ready,holdout
+EV-003703,M-10438,TT-0201,2026-11-11,599,False,tablet,DE,standard,TT-0201,False,True,False,0.9,5280,Snowcap Kitchen,film,Animation,,88,TV-G,2020-11-27,false,,model_ready,holdout
+EV-004001,M-10460,TT-0238,2026-11-11,209,False,tv,IN,standard,TT-0238,False,True,False,0.9,2880,Vintage Garage Race,series,Reality,Documentary,48,TV-PG,2017-08-04,false,,model_ready,holdout
+EV-004220,M-10501,TT-0260,2026-11-11,664,False,tv,BR,standard,TT-0260,False,True,False,0.9,3180,Thornmere Heirs,series,Fantasy,Thriller,53,TV-MA,2024-09-09,false,,model_ready,holdout
+EV-004455,M-10569,TT-0277,2026-11-11,1232,False,tv,DE,standard,TT-0277,False,True,False,0.9,7080,The Long Quiet,film,Sci-Fi,Drama,118,PG-13,2024-01-19,false,,model_ready,holdout
+EV-004918,M-10020,TT-0014,2026-11-11,1344,False,tv,ES,standard,TT-0014,False,True,False,0.9,2940,Tangled Current,series,Drama,Thriller,49,TV-MA,2024-09-27,false,,model_ready,holdout
+EV-000026,M-10092,TT-0028,2026-11-12,2455,True,web,IN,standard,TT-0028,False,True,True,0.9,1860,Table for Nine Strangers,series,Comedy,Romance,31,TV-14,2020-11-27,false,,model_ready,holdout
+EV-000034,M-10510,TT-0273,2026-11-12,3102,True,tv,US,standard,TT-0273,False,True,True,0.9,1620,Vacuum Kitchen,series,Sci-Fi,Comedy,27,TV-PG,2022-10-21,false,,model_ready,holdout
+EV-000099,M-10346,TT-0152,2026-11-12,2623,False,tv,US,standard,TT-0152,True,True,True,0.9,3000,Lowtide Mercy,series,Horror,Drama,50,TV-MA,2017-10-27,false,,model_ready,holdout
+EV-000123,M-10381,TT-0026,2026-11-12,3040,True,web,AU,standard,TT-0026,True,True,False,0.9,1440,Parking Lot Philosophers,series,Comedy,Reality,24,TV-PG,2017-09-05,false,,model_ready,holdout
+EV-000156,M-10305,TT-0276,2026-11-12,2711,True,tv,CA,standard,TT-0276,True,True,False,0.9,1320,Gravity Well Garage,series,Sci-Fi,,22,TV-Y7,2016-07-08,false,,model_ready,holdout
+EV-000404,M-10532,TT-0265,2026-11-12,3012,False,tv,US,standard,TT-0265,True,True,True,0.9,6720,Sunken Garden Bargain,film,Fantasy,,112,PG-13,2016-12-16,false,,model_ready,holdout
+EV-000572,M-10006,TT-0001,2026-11-12,2792,False,tv,FR,standard,TT-0001,True,True,True,0.9,7080,The Salt Ledger,film,Drama,Thriller,118,R,2019-03-08,false,,model_ready,holdout
+EV-000717,M-10585,TT-0280,2026-11-12,827,False,mobile,IN,standard,TT-0280,True,True,True,0.9,6360,Paper Moons,film,Sci-Fi,Romance,106,PG-13,2023-02-10,false,,model_ready,holdout
+EV-000718,M-10461,TT-0228,2026-11-12,2480,False,tv,DE,standard,TT-0228,True,True,True,0.9,5280,Garden Shed Showdown,film,Reality,Comedy,88,TV-G,2016-06-03,false,,model_ready,holdout
+EV-000815,M-10369,TT-0183,2026-11-12,2420,False,tv,JP,standard,TT-0183,True,True,True,0.9,3300,Vantage Point Unit,series,Action,Drama,55,TV-MA,2020-12-18,false,,model_ready,holdout
+EV-000927,M-10382,TT-0195,2026-11-12,1294,False,tablet,BR,standard,TT-0195,False,True,False,0.9,6660,Pursuit of the Long Night,film,Action,Horror,111,R,2026-10-30,false,,model_ready,holdout
+EV-001109,M-10424,TT-0276,2026-11-12,3457,True,tv,FR,kids,TT-0276,True,True,False,0.9,1320,Gravity Well Garage,series,Sci-Fi,,22,TV-Y7,2016-07-08,false,,model_ready,holdout
+EV-001120,M-10279,TT-0139,2026-11-12,421,False,web,MX,standard,TT-0139,False,True,False,0.9,7800,Rain on Rue Verte,film,Romance,Drama,130,R,2015-02-20,false,,model_ready,holdout
+EV-001235,M-10221,TT-0105,2026-11-12,899,False,tv,GB,standard,TT-0105,False,True,False,0.9,2820,Dust on the Dial,series,Documentary,,47,TV-PG,2024-01-26,false,,model_ready,holdout
+EV-001266,M-10520,TT-0271,2026-11-12,3450,False,tablet,CA,standard,TT-0271,True,True,True,0.9,7260,Lattice,film,Sci-Fi,,121,R,2018-08-24,false,,model_ready,holdout
+EV-001308,M-10302,TT-0051,2026-11-12,583,False,tv,FR,standard,TT-0051,False,True,False,0.9,2580,Nine Minutes Past,series,Thriller,,43,TV-14,2017-11-22,false,,model_ready,holdout
+EV-001353,M-10560,TT-0283,2026-11-12,1598,False,mobile,MX,standard,TT-0283,True,True,True,0.9,2100,Orbit Bakehouse,series,Sci-Fi,,35,TV-PG,2024-08-30,false,,model_ready,holdout
+EV-001390,M-10310,TT-0174,2026-11-12,570,False,mobile,FR,standard,TT-0174,True,True,True,0.9,3120,Concrete Saints,series,Action,Drama,52,TV-MA,2017-11-03,false,,model_ready,holdout
+EV-001420,M-10372,TT-0190,2026-11-12,3274,True,mobile,AU,standard,TT-0190,True,True,False,0.9,2880,Deep Water Protocol,series,Action,Thriller,48,TV-MA,2016-05-19,false,,model_ready,holdout
+EV-001421,M-10361,TT-0179,2026-11-12,1327,False,mobile,FR,standard,TT-0179,False,True,False,0.9,6720,Ember Run,film,Action,Romance,112,PG-13,2025-02-14,false,,model_ready,holdout
+EV-001463,M-10444,TT-0051,2026-11-12,453,False,tablet,DE,kids,TT-0051,False,True,False,0.9,2580,Nine Minutes Past,series,Thriller,,43,TV-14,2017-11-22,false,,model_ready,holdout
+EV-001690,M-10030,TT-0004,2026-11-12,2724,False,tv,FR,standard,TT-0004,True,True,True,0.9,3300,Ashes of Meridian,series,Drama,Crime,55,TV-MA,2022-08-19,false,,model_ready,holdout
+EV-002131,M-10482,TT-0051,2026-11-12,3523,True,mobile,DE,standard,TT-0051,True,True,False,0.9,2580,Nine Minutes Past,series,Thriller,,43,TV-14,2017-11-22,false,,model_ready,holdout
+EV-002186,M-10074,TT-0031,2026-11-12,949,False,tv,DE,standard,TT-0031,False,True,False,0.9,1320,Minivan Mayhem,series,Comedy,Action,22,TV-PG,2016-04-22,false,,model_ready,holdout
+EV-002187,M-10417,TT-0201,2026-11-12,421,False,tv,CA,kids,TT-0201,False,True,False,0.9,5280,Snowcap Kitchen,film,Animation,,88,TV-G,2020-11-27,false,,model_ready,holdout
+EV-002207,M-10275,TT-0130,2026-11-12,1403,False,tv,MX,standard,TT-0130,False,True,False,0.9,2280,Ink and Tides,series,Romance,Drama,38,TV-14,2024-05-17,false,,model_ready,holdout
+EV-002262,M-10217,TT-0101,2026-11-12,796,False,tv,US,standard,TT-0101,False,True,False,0.9,6720,Open Water Crossing,film,Documentary,Action,112,PG-13,2023-05-10,false,,model_ready,holdout
+EV-002327,M-10498,TT-0230,2026-11-12,3505,True,web,US,standard,TT-0230,True,True,False,0.9,2640,Island Chef Exile,series,Reality,Drama,44,TV-14,2021-02-26,false,,model_ready,holdout
+EV-002454,M-10412,TT-0204,2026-11-12,896,False,tv,KR,kids,TT-0204,False,True,False,0.9,1800,Harbor Lights Detectives,series,Animation,Crime,30,TV-PG,2018-10-11,false,,model_ready,holdout
+EV-002545,M-10198,TT-0078,2026-11-12,371,False,tv,MX,kids,TT-0078,False,True,False,0.9,2640,Dead Letter Drop,series,Crime,Thriller,44,TV-MA,2016-11-08,false,,model_ready,holdout
+EV-002693,M-10104,TT-0051,2026-11-12,2553,True,tv,US,standard,TT-0051,False,True,True,0.9,2580,Nine Minutes Past,series,Thriller,,43,TV-14,2017-11-22,false,,model_ready,holdout
+EV-002694,M-10107,TT-0052,2026-11-12,3269,False,mobile,BR,standard,TT-0052,True,True,True,0.9,6240,Low Tide Protocol,film,Thriller,Sci-Fi,104,PG-13,2024-05-17,false,,model_ready,holdout
+EV-002701,M-10426,TT-0212,2026-11-12,3243,True,tablet,US,standard,TT-0212,False,True,True,0.9,1320,Harvest Moon Harmonica,series,Animation,,22,TV-Y,2024-09-27,false,,model_ready,holdout
+EV-002756,M-10544,TT-0259,2026-11-12,720,False,tv,US,standard,TT-0259,False,True,False,0.9,2640,The Quiet Ferryman,series,Fantasy,Drama,44,TV-14,2015-07-17,false,,model_ready,holdout
+EV-002883,M-10135,TT-0176,2026-11-12,2648,True,tv,US,standard,TT-0176,True,True,False,0.9,2640,Sky Marshal Nine,series,Action,Thriller,44,TV-14,2021-09-29,false,,model_ready,holdout
+EV-003094,M-10165,TT-0081,2026-11-12,2456,False,tv,FR,standard,TT-0081,True,True,True,0.9,6720,Counterfeit Harbor,film,Crime,Thriller,112,PG-13,2018-10-05,false,,model_ready,holdout
+EV-003576,M-10213,TT-0276,2026-11-12,3042,True,mobile,US,standard,TT-0276,True,True,False,0.9,1320,Gravity Well Garage,series,Sci-Fi,,22,TV-Y7,2016-07-08,false,,model_ready,holdout
+EV-003606,M-10422,TT-0076,2026-11-12,3146,True,tv,KR,standard,TT-0076,True,True,False,0.9,3120,Cold Brass Street,series,Crime,,52,TV-14,2017-06-22,false,,model_ready,holdout
+EV-003751,M-10455,TT-0176,2026-11-12,646,False,web,DE,standard,TT-0176,False,True,False,0.9,2640,Sky Marshal Nine,series,Action,Thriller,44,TV-14,2021-09-29,false,,model_ready,holdout
+EV-003956,M-10562,TT-0282,2026-11-12,3336,False,mobile,ES,standard,TT-0282,True,True,True,0.9,7620,Elevator Ninety,film,Sci-Fi,Crime,127,R,2020-09-04,false,,model_ready,holdout
+EV-004073,M-10185,TT-0080,2026-11-12,299,False,tv,US,standard,TT-0080,False,True,False,0.9,2760,Shadow Route Nine,series,Crime,Action,46,TV-14,2022-08-12,false,,model_ready,holdout
+EV-004164,M-10476,TT-0230,2026-11-12,2067,False,tv,BR,standard,TT-0230,True,True,True,0.9,2640,Island Chef Exile,series,Reality,Drama,44,TV-14,2021-02-26,false,,model_ready,holdout
+EV-004176,M-10080,TT-0029,2026-11-12,1587,False,mobile,US,standard,TT-0029,True,True,True,0.9,2520,The Understudy Diaries,series,Comedy,Drama,42,TV-MA,2023-01-20,false,,model_ready,holdout
+EV-004291,M-10484,TT-0234,2026-11-12,2628,True,tv,FR,standard,TT-0234,False,True,True,0.9,2520,Hostel Hosts Abroad,series,Reality,Comedy,42,TV-14,2024-03-07,false,,model_ready,holdout
+EV-004325,M-10230,TT-0103,2026-11-12,1770,True,mobile,DE,standard,TT-0103,True,True,False,0.9,1800,The Long Table,series,Documentary,Comedy,30,TV-14,2022-11-18,false,,model_ready,holdout
+EV-004410,M-10387,TT-0181,2026-11-12,1026,False,Unknown,US,standard,TT-0181,False,True,False,0.9,1800,Grid Breakers,series,Action,Sci-Fi,30,TV-PG,2026-03-12,false,,model_ready,holdout
+EV-004493,M-10193,TT-0051,2026-11-12,2453,True,mobile,MX,standard,TT-0051,True,True,False,0.9,2580,Nine Minutes Past,series,Thriller,,43,TV-14,2017-11-22,false,,model_ready,holdout
+EV-004515,M-10086,TT-0027,2026-11-12,1269,False,tablet,MX,standard,TT-0027,False,True,False,0.9,5520,Dog Days Detective,film,Comedy,Crime,92,PG,2022-06-17,false,,model_ready,holdout
+EV-004538,M-10445,TT-0213,2026-11-12,1119,False,tv,GB,standard,TT-0213,False,True,False,0.9,1440,Grandpa's Robot Garden,series,Animation,Comedy,24,TV-Y,2016-08-19,false,,model_ready,holdout
+EV-004583,M-10250,TT-0110,2026-11-12,3198,True,tv,MX,standard,TT-0110,True,True,False,0.9,3000,Pit Lane Breakdown,series,Documentary,Action,50,TV-14,2019-10-11,false,,model_ready,holdout
+EV-004705,M-10388,TT-0186,2026-11-12,1022,False,web,US,standard,TT-0186,False,True,False,0.9,2580,Iron Orchard,series,Action,,43,TV-14,2019-08-30,false,,model_ready,holdout
+EV-004714,M-10016,TT-0076,2026-11-12,1455,False,mobile,US,standard,TT-0076,True,True,True,0.9,3120,Cold Brass Street,series,Crime,,52,TV-14,2017-06-22,false,,model_ready,holdout
+EV-004797,M-10517,TT-0252,2026-11-12,2756,True,tablet,ES,standard,TT-0252,True,True,False,0.9,2520,Bramblecastle Kitchen,series,Fantasy,Reality,42,TV-G,2023-01-13,false,,model_ready,holdout
+EV-004894,M-10359,TT-0182,2026-11-12,3556,False,mobile,US,standard,TT-0182,True,True,True,0.9,7260,Blackwater Escape,film,Action,Thriller,121,R,2015-08-07,false,,model_ready,holdout
+EV-004999,M-10019,TT-0015,2026-11-12,680,False,tv,JP,standard,TT-0015,False,True,False,0.9,6840,Pale Summer,film,Drama,Romance,114,R,2021-08-13,false,,model_ready,holdout
+EV-000135,M-10588,TT-0295,2026-11-13,230,False,tv,JP,standard,TT-0295,False,True,False,0.9,2640,The Long Table Confessions,series,Reality,,44,TV-14,2020-02-12,false,,model_ready,holdout
+EV-000198,M-10295,TT-0139,2026-11-13,2220,False,tv,GB,standard,TT-0139,True,True,True,0.9,7800,Rain on Rue Verte,film,Romance,Drama,130,R,2015-02-20,false,,model_ready,holdout
+EV-000385,M-10132,TT-0070,2026-11-13,2115,False,mobile,AU,standard,TT-0070,True,True,True,0.9,6060,Vanishing Point Motel,film,Thriller,Horror,101,R,2016-10-28,false,,model_ready,holdout
+EV-000581,M-10085,TT-0076,2026-11-13,549,False,tv,FR,standard,TT-0076,False,True,False,0.9,3120,Cold Brass Street,series,Crime,,52,TV-14,2017-06-22,false,,model_ready,holdout
+EV-000831,M-10176,TT-0078,2026-11-13,2005,False,tablet,JP,standard,TT-0078,True,True,True,0.9,2640,Dead Letter Drop,series,Crime,Thriller,44,TV-MA,2016-11-08,false,,model_ready,holdout
+EV-000863,M-10312,TT-0164,2026-11-13,1190,False,tv,US,standard,TT-0164,False,True,False,0.9,1380,Vesper Lane,series,Horror,Animation,23,TV-14,2024-10-25,false,,model_ready,holdout
+EV-000866,M-10127,TT-0052,2026-11-13,266,False,tv,BR,standard,TT-0052,False,True,False,0.9,6240,Low Tide Protocol,film,Thriller,Sci-Fi,104,PG-13,2024-05-17,false,,model_ready,holdout
+EV-000942,M-10105,TT-0057,2026-11-13,706,False,tablet,ES,standard,TT-0057,False,True,False,0.9,2640,Paper Alibi,series,Thriller,Crime,44,TV-MA,2022-06-15,false,,model_ready,holdout
+EV-000988,M-10104,TT-0052,2026-11-13,3065,False,tv,JP,standard,TT-0052,False,True,False,0.9,6240,Low Tide Protocol,film,Thriller,Sci-Fi,104,PG-13,2024-05-17,false,,model_ready,holdout
+EV-001081,M-10097,TT-0034,2026-11-13,803,False,tv,US,standard,TT-0034,True,True,True,0.9,1380,Splash Zone Summer,series,Comedy,Romance,23,TV-G,2015-06-19,false,,model_ready,holdout
+EV-001153,M-10263,TT-0132,2026-11-13,1110,False,tablet,US,standard,TT-0132,False,True,False,0.9,2820,Velvet Lanterns,series,Romance,,47,TV-MA,2025-10-24,false,,model_ready,holdout
+EV-001240,M-10573,TT-0284,2026-11-13,3219,False,tv,IN,standard,TT-0284,True,True,True,0.9,7860,Iron Tide Colony,film,Sci-Fi,Action,131,PG-13,2015-06-12,false,,model_ready,holdout
+EV-001254,M-10248,TT-0114,2026-11-13,2475,False,web,KR,standard,TT-0114,True,True,True,0.9,6420,Ice Road Season,film,Documentary,Action,107,PG-13,2022-01-21,false,,model_ready,holdout
+EV-001286,M-10077,TT-0027,2026-11-13,1197,False,mobile,CA,standard,TT-0027,True,True,True,0.9,5520,Dog Days Detective,film,Comedy,Crime,92,PG,2022-06-17,false,,model_ready,holdout
+EV-001376,M-10231,TT-0105,2026-11-13,2180,False,tv,CA,kids,TT-0105,True,True,True,0.9,2820,Dust on the Dial,series,Documentary,,47,TV-PG,2024-01-26,false,,model_ready,holdout
+EV-001625,M-10397,TT-0190,2026-11-13,641,False,tv,FR,standard,TT-0190,True,True,True,0.9,2880,Deep Water Protocol,series,Action,Thriller,48,TV-MA,2016-05-19,false,,model_ready,holdout
+EV-001683,M-10340,TT-0157,2026-11-13,51,False,tv,US,standard,TT-0157,True,True,True,0.9,6060,Mirror Dune,film,Horror,Sci-Fi,101,R,2019-10-31,false,,model_ready,holdout
+EV-001755,M-10420,TT-0203,2026-11-13,3322,True,tv,AU,kids,TT-0203,True,True,False,0.9,1440,Moonlit Dumpling Club,series,Animation,Comedy,24,TV-Y7,2024-02-19,false,,model_ready,holdout
+EV-001775,M-10540,TT-0276,2026-11-13,2788,True,tv,US,standard,TT-0276,True,True,False,0.9,1320,Gravity Well Garage,series,Sci-Fi,,22,TV-Y7,2016-07-08,false,,model_ready,holdout
+EV-001819,M-10249,TT-0101,2026-11-13,2530,False,web,AU,standard,TT-0101,True,True,True,0.9,6720,Open Water Crossing,film,Documentary,Action,112,PG-13,2023-05-10,false,,model_ready,holdout
+EV-002063,M-10410,TT-0217,2026-11-13,858,False,tablet,GB,kids,TT-0217,False,True,False,0.9,6120,Splash Zone Champions,film,Animation,Action,102,PG,2017-07-14,false,,model_ready,holdout
+EV-002085,M-10450,TT-0205,2026-11-13,949,False,tv,US,standard,TT-0205,False,True,False,0.9,1320,Little Thunder Ranch,series,Animation,,22,TV-Y,2021-02-12,false,,model_ready,holdout
+EV-002120,M-10193,TT-0078,2026-11-13,3556,True,tv,DE,standard,TT-0078,False,True,True,0.9,2640,Dead Letter Drop,series,Crime,Thriller,44,TV-MA,2016-11-08,false,,model_ready,holdout
+EV-002163,M-10483,TT-0227,2026-11-13,2331,False,tv,MX,standard,TT-0227,True,True,True,0.9,3120,Ice Road Confessions,series,Reality,Documentary,52,TV-14,2019-12-11,false,,model_ready,holdout
+EV-002192,M-10519,TT-0256,2026-11-13,2805,False,tv,MX,standard,TT-0256,True,True,True,0.9,5280,Little Storm Keeper,film,Fantasy,Animation,88,PG,2019-11-29,false,,model_ready,holdout
+EV-002195,M-10205,TT-0104,2026-11-13,2983,False,tablet,GB,standard,TT-0104,False,True,False,0.9,6240,Glass Ceiling Ledger,film,Documentary,Thriller,104,TV-MA,2020-02-07,false,,model_ready,holdout
+EV-002408,M-10013,TT-0005,2026-11-13,1371,False,tablet,US,standard,TT-0005,True,True,True,0.9,7620,The Long Quarry,film,Drama,,127,R,2015-04-24,false,,model_ready,holdout
+EV-002484,M-10244,TT-0001,2026-11-13,3248,False,tv,IN,standard,TT-0001,False,True,False,0.9,7080,The Salt Ledger,film,Drama,Thriller,118,R,2019-03-08,false,,model_ready,holdout
+EV-002505,M-10578,TT-0076,2026-11-13,3268,True,mobile,IN,standard,TT-0076,True,True,False,0.9,3120,Cold Brass Street,series,Crime,,52,TV-14,2017-06-22,false,,model_ready,holdout
+EV-002690,M-10302,TT-0155,2026-11-13,2845,False,tv,DE,standard,TT-0155,True,True,True,0.9,5160,Dead Air Frequency,film,Horror,Documentary,86,TV-14,2025-10-17,false,,model_ready,holdout
+EV-002715,M-10475,TT-0231,2026-11-13,1182,False,tv,MX,kids,TT-0231,False,True,False,0.9,1440,Little Builders,series,Reality,Animation,24,TV-Y7,2022-08-19,false,,model_ready,holdout
+EV-002833,M-10441,TT-0202,2026-11-13,1071,False,tv,GB,standard,TT-0202,True,True,True,0.9,6720,The Quiet Dragon of Bell Hill,film,Animation,Fantasy,112,PG,2016-05-06,false,,model_ready,holdout
+EV-002884,M-10087,TT-0037,2026-11-13,2083,False,tv,IN,standard,TT-0037,True,True,True,0.9,6060,The Rooftop Lottery,film,Comedy,Fantasy,101,PG-13,2016-07-08,false,,model_ready,holdout
+EV-002926,M-10342,TT-0156,2026-11-13,392,False,tv,BR,standard,TT-0156,False,True,False,0.9,2520,Ember Hollow,series,Horror,Action,42,TV-MA,2015-10-23,false,,model_ready,holdout
+EV-002967,M-10492,TT-0237,2026-11-13,165,False,Unknown,GB,standard,TT-0237,False,True,False,0.9,5700,Lodge Season,film,Reality,Romance,95,PG,2019-12-20,false,,model_ready,holdout
+EV-003040,M-10520,TT-0258,2026-11-13,2684,False,tv,MX,standard,TT-0258,True,True,True,0.9,6120,Starlight Vows,film,Fantasy,,102,TV-14,2026-10-30,false,,model_ready,holdout
+EV-003190,M-10466,TT-0051,2026-11-13,277,False,tv,CA,standard,TT-0051,False,True,False,0.9,2580,Nine Minutes Past,series,Thriller,,43,TV-14,2017-11-22,false,,model_ready,holdout
+EV-003229,M-10255,TT-0051,2026-11-13,878,False,mobile,DE,standard,TT-0051,False,True,False,0.9,2580,Nine Minutes Past,series,Thriller,,43,TV-14,2017-11-22,false,,model_ready,holdout
+EV-003327,M-10433,TT-0202,2026-11-13,2269,False,tv,US,standard,TT-0202,False,True,False,0.9,6720,The Quiet Dragon of Bell Hill,film,Animation,Fantasy,112,PG,2016-05-06,false,,model_ready,holdout
+EV-003389,M-10349,TT-0152,2026-11-13,2660,False,tv,IN,standard,TT-0152,False,True,False,0.9,3000,Lowtide Mercy,series,Horror,Drama,50,TV-MA,2017-10-27,false,,model_ready,holdout
+EV-003526,M-10059,TT-0029,2026-11-13,378,False,Unknown,GB,standard,TT-0029,True,True,True,0.9,2520,The Understudy Diaries,series,Comedy,Drama,42,TV-MA,2023-01-20,false,,model_ready,holdout
+EV-003583,M-10577,TT-0001,2026-11-13,2605,False,mobile,US,standard,TT-0001,True,True,True,0.9,7080,The Salt Ledger,film,Drama,Thriller,118,R,2019-03-08,false,,model_ready,holdout
+EV-003620,M-10313,TT-0153,2026-11-13,1861,False,mobile,JP,standard,TT-0153,True,True,True,0.9,6720,Cold Tenant,film,Horror,Thriller,112,R,2024-10-18,false,,model_ready,holdout
+EV-003802,M-10199,TT-0092,2026-11-13,2658,False,tv,US,standard,TT-0092,False,True,False,0.9,6120,Hollow Coin,film,Crime,Thriller,102,PG-13,2016-04-22,false,,model_ready,holdout
+EV-003862,M-10443,TT-0215,2026-11-13,2714,False,tv,US,standard,TT-0215,True,True,True,0.9,5760,Stellar Puppy Patrol,film,Animation,Sci-Fi,96,TV-G,2021-10-08,false,,model_ready,holdout
+EV-004062,M-10473,TT-0250,2026-11-13,1325,True,tv,GB,standard,TT-0250,True,True,False,0.9,1440,Wyrdling,series,Fantasy,,24,TV-Y7,2018-12-07,false,,model_ready,holdout
+EV-004107,M-10348,TT-0154,2026-11-13,1100,False,tablet,US,standard,TT-0154,False,True,False,0.9,3300,Saltbell Manor,series,Horror,Romance,55,TV-MA,2020-10-30,false,,model_ready,holdout
+EV-004162,M-10554,TT-0051,2026-11-13,760,False,tv,FR,standard,TT-0051,False,True,False,0.9,2580,Nine Minutes Past,series,Thriller,,43,TV-14,2017-11-22,false,,model_ready,holdout
+EV-004237,M-10495,TT-0176,2026-11-13,2967,True,mobile,BR,standard,TT-0176,True,True,False,0.9,2640,Sky Marshal Nine,series,Action,Thriller,44,TV-14,2021-09-29,false,,model_ready,holdout
+EV-004300,M-10337,TT-0155,2026-11-13,3079,False,tv,JP,standard,TT-0155,True,True,True,0.9,5160,Dead Air Frequency,film,Horror,Documentary,86,TV-14,2025-10-17,false,,model_ready,holdout
+EV-004486,M-10326,TT-0276,2026-11-13,413,False,tv,JP,standard,TT-0276,False,True,False,0.9,1320,Gravity Well Garage,series,Sci-Fi,,22,TV-Y7,2016-07-08,false,,model_ready,holdout
+EV-004733,M-10529,TT-0253,2026-11-13,2766,False,tv,US,standard,TT-0253,True,True,True,0.9,7620,Night Tithe,film,Fantasy,Crime,127,R,2016-04-22,false,,model_ready,holdout
+EV-004874,M-10214,TT-0001,2026-11-13,2491,False,Unknown,US,standard,TT-0001,False,True,False,0.9,7080,The Salt Ledger,film,Drama,Thriller,118,R,2019-03-08,false,,model_ready,holdout
+EV-004883,M-10160,TT-0091,2026-11-13,2744,True,tv,US,standard,TT-0091,False,True,True,0.9,2820,Redline Parish,series,Crime,Action,47,TV-14,2024-06-07,false,,model_ready,holdout
+EV-004968,M-10495,TT-0230,2026-11-13,3274,True,tv,MX,standard,TT-0230,True,True,False,0.9,2640,Island Chef Exile,series,Reality,Drama,44,TV-14,2021-02-26,false,,model_ready,holdout
+EV-000108,M-10336,TT-0151,2026-11-14,2495,True,tablet,US,standard,TT-0151,False,True,True,0.9,2640,Hexmarket,series,Horror,Fantasy,44,TV-14,2022-10-14,false,,model_ready,holdout
+EV-000208,M-10228,TT-0110,2026-11-14,1125,False,mobile,KR,standard,TT-0110,False,True,False,0.9,3000,Pit Lane Breakdown,series,Documentary,Action,50,TV-14,2019-10-11,false,,model_ready,holdout
+EV-000209,M-10565,TT-0276,2026-11-14,2359,True,tv,US,standard,TT-0276,True,True,False,0.9,1320,Gravity Well Garage,series,Sci-Fi,,22,TV-Y7,2016-07-08,false,,model_ready,holdout
+EV-000284,M-10580,TT-0290,2026-11-14,229,False,tv,ES,standard,TT-0290,True,True,True,0.9,3120,The Lantern Spool,series,Drama,Crime,52,TV-MA,2022-03-14,false,,model_ready,holdout
+EV-000371,M-10437,TT-0276,2026-11-14,2121,True,tv,GB,kids,TT-0276,True,True,False,0.9,1320,Gravity Well Garage,series,Sci-Fi,,22,TV-Y7,2016-07-08,false,,model_ready,holdout
+EV-000491,M-10590,TT-0277,2026-11-14,1705,False,tv,IN,standard,TT-0277,True,True,True,0.9,7080,The Long Quiet,film,Sci-Fi,Drama,118,PG-13,2024-01-19,false,,model_ready,holdout
+EV-000573,M-10585,TT-0276,2026-11-14,2775,True,tv,BR,standard,TT-0276,False,True,True,0.9,1320,Gravity Well Garage,series,Sci-Fi,,22,TV-Y7,2016-07-08,false,,model_ready,holdout
+EV-000736,M-10238,TT-0001,2026-11-14,3136,False,mobile,US,standard,TT-0001,False,True,False,0.9,7080,The Salt Ledger,film,Drama,Thriller,118,R,2019-03-08,false,,model_ready,holdout
+EV-000852,M-10507,TT-0254,2026-11-14,691,False,tv,ES,standard,TT-0254,False,True,False,0.9,3480,Harrowgate Oath,series,Fantasy,Drama,58,TV-MA,2026-03-12,false,,model_ready,holdout
+EV-000943,M-10008,TT-0011,2026-11-14,2330,False,tv,FR,standard,TT-0011,True,True,True,0.9,5880,Sunday at Hollow Creek,film,Drama,Comedy,98,PG-13,2019-07-26,false,,model_ready,holdout
+EV-001195,M-10331,TT-0001,2026-11-14,500,False,tablet,MX,standard,TT-0001,False,True,False,0.9,7080,The Salt Ledger,film,Drama,Thriller,118,R,2019-03-08,false,,model_ready,holdout
+EV-001201,M-10396,TT-0177,2026-11-14,2618,False,mobile,GB,standard,TT-0177,True,True,True,0.9,5820,Dust Corridor,film,Action,,97,PG-13,2016-02-12,false,,model_ready,holdout
+EV-001243,M-10535,TT-0051,2026-11-14,2183,False,tv,US,standard,TT-0051,False,True,False,0.9,2580,Nine Minutes Past,series,Thriller,,43,TV-14,2017-11-22,false,,model_ready,holdout
+EV-001365,M-10176,TT-0080,2026-11-14,2705,True,tablet,AU,standard,TT-0080,False,True,True,0.9,2760,Shadow Route Nine,series,Crime,Action,46,TV-14,2022-08-12,false,,model_ready,holdout
+EV-001377,M-10409,TT-0210,2026-11-14,2489,True,tv,US,standard,TT-0210,False,True,True,0.9,1380,Tidepool Mysteries,series,Animation,Thriller,23,TV-Y7,2020-07-17,false,,model_ready,holdout
+EV-001432,M-10326,TT-0153,2026-11-14,2699,False,web,US,standard,TT-0153,True,True,True,0.9,6720,Cold Tenant,film,Horror,Thriller,112,R,2024-10-18,false,,model_ready,holdout
+EV-001640,M-10182,TT-0079,2026-11-14,2648,False,tv,US,standard,TT-0079,True,True,True,0.9,6060,Parole Hours,film,Crime,Drama,101,R,2020-05-29,false,,model_ready,holdout
+EV-001706,M-10377,TT-0180,2026-11-14,3473,True,tv,CA,standard,TT-0180,True,True,False,0.9,2820,Fault Line Squad,series,Action,,47,TV-14,2018-04-27,false,,model_ready,holdout
+EV-001718,M-10242,TT-0001,2026-11-14,3118,False,tv,DE,standard,TT-0001,True,True,True,0.9,7080,The Salt Ledger,film,Drama,Thriller,118,R,2019-03-08,false,,model_ready,holdout
+EV-001983,M-10332,TT-0171,2026-11-14,739,False,tv,ES,standard,TT-0171,False,True,False,0.9,7080,Ironclad Tide,film,Action,Thriller,118,R,2019-03-15,false,,model_ready,holdout
+EV-002004,M-10518,TT-0265,2026-11-14,2925,False,tv,JP,standard,TT-0265,True,True,True,0.9,6720,Sunken Garden Bargain,film,Fantasy,,112,PG-13,2016-12-16,false,,model_ready,holdout
+EV-002099,M-10524,TT-0251,2026-11-14,2169,False,tv,BR,standard,TT-0251,True,True,True,0.9,7860,The Clockwork Pilgrim,film,Fantasy,Sci-Fi,131,PG-13,2025-06-27,false,,model_ready,holdout
+EV-002405,M-10469,TT-0236,2026-11-14,832,False,tv,GB,standard,TT-0236,True,True,True,0.9,3300,Stage Mothers,series,Reality,,55,TV-MA,2023-09-29,false,,model_ready,holdout
+EV-002467,M-10593,TT-0289,2026-11-14,3121,True,tablet,US,standard,TT-0289,True,True,False,0.9,1800,Glasshouse Relay,series,Sci-Fi,Comedy,30,TV-14,2025-09-19,false,,model_ready,holdout
+EV-002493,M-10415,TT-0224,2026-11-14,176,False,tv,US,kids,TT-0224,False,True,False,0.9,2460,Midnight Motel Makeover,series,Reality,Horror,41,TV-MA,2020-10-29,false,,model_ready,holdout
+EV-002512,M-10014,TT-0004,2026-11-14,2431,False,tv,DE,standard,TT-0004,True,True,True,0.9,3300,Ashes of Meridian,series,Drama,Crime,55,TV-MA,2022-08-19,false,,model_ready,holdout
+EV-002637,M-10062,TT-0047,2026-11-14,569,False,tv,GB,standard,TT-0047,False,True,False,0.9,1980,Bus Stop Confessions,series,Comedy,,33,TV-14,2019-05-31,false,,model_ready,holdout
+EV-002727,M-10116,TT-0052,2026-11-14,1231,False,tv,US,standard,TT-0052,False,True,False,0.9,6240,Low Tide Protocol,film,Thriller,Sci-Fi,104,PG-13,2024-05-17,false,,model_ready,holdout
+EV-002746,M-10208,TT-0107,2026-11-14,3050,True,Unknown,CA,standard,TT-0107,True,True,False,0.9,2760,Night Shift Medics,series,Documentary,Drama,46,TV-14,2023-10-06,false,,model_ready,holdout
+EV-002751,M-10049,TT-0005,2026-11-14,3574,False,tablet,US,standard,TT-0005,True,True,True,0.9,7620,The Long Quarry,film,Drama,,127,R,2015-04-24,false,,model_ready,holdout
+EV-002771,M-10015,TT-0012,2026-11-14,1885,False,mobile,US,standard,TT-0012,False,True,False,0.9,3180,The Weight of Blue,series,Drama,,53,TV-14,2016-01-18,false,,model_ready,holdout
+EV-002919,M-10047,TT-0014,2026-11-14,1788,False,mobile,US,standard,TT-0014,True,True,True,0.9,2940,Tangled Current,series,Drama,Thriller,49,TV-MA,2024-09-27,false,,model_ready,holdout
+EV-003041,M-10536,TT-0272,2026-11-14,1553,False,web,FR,standard,TT-0272,False,True,False,0.9,2460,Drift Hymn,series,Sci-Fi,Romance,41,TV-14,2020-02-14,false,,model_ready,holdout
+EV-003135,M-10396,TT-0179,2026-11-14,841,False,tv,IN,standard,TT-0179,False,True,False,0.9,6720,Ember Run,film,Action,Romance,112,PG-13,2025-02-14,false,,model_ready,holdout
+EV-003192,M-10149,TT-0063,2026-11-14,1426,False,mobile,MX,standard,TT-0063,False,True,False,0.9,2700,The Alibi Clock,series,Thriller,,45,TV-14,2021-04-30,false,,model_ready,holdout
+EV-003206,M-10373,TT-0183,2026-11-14,1734,False,web,DE,standard,TT-0183,True,True,True,0.9,3300,Vantage Point Unit,series,Action,Drama,55,TV-MA,2020-12-18,false,,model_ready,holdout
+EV-003288,M-10201,TT-0113,2026-11-14,2254,True,tv,US,standard,TT-0113,True,True,False,0.9,1560,Orchard Hours,series,Documentary,,26,TV-G,2020-09-15,false,,model_ready,holdout
+EV-003402,M-10143,TT-0051,2026-11-14,529,False,tv,US,standard,TT-0051,False,True,False,0.9,2580,Nine Minutes Past,series,Thriller,,43,TV-14,2017-11-22,false,,model_ready,holdout
+EV-003415,M-10382,TT-0188,2026-11-14,223,False,web,US,standard,TT-0188,False,True,False,0.9,1680,Rooftop Circuit,series,Action,Comedy,28,TV-14,2022-10-07,false,,model_ready,holdout
+EV-003427,M-10480,TT-0237,2026-11-14,3259,False,tv,US,kids,TT-0237,False,True,False,0.9,5700,Lodge Season,film,Reality,Romance,95,PG,2019-12-20,false,,model_ready,holdout
+EV-003615,M-10520,TT-0076,2026-11-14,2991,True,tv,US,standard,TT-0076,True,True,False,0.9,3120,Cold Brass Street,series,Crime,,52,TV-14,2017-06-22,false,,model_ready,holdout
+EV-003634,M-10263,TT-0129,2026-11-14,781,False,mobile,GB,standard,TT-0129,False,True,False,0.9,8040,The Ballad of Clara Vane,film,Romance,Fantasy,134,PG-13,2018-12-14,false,,model_ready,holdout
+EV-003708,M-10466,TT-0247,2026-11-14,1041,False,mobile,US,standard,TT-0247,False,True,False,0.9,5760,The Thornwood Compact,film,Fantasy,Romance,96,PG,2024-02-14,false,,model_ready,holdout
+EV-003771,M-10268,TT-0126,2026-11-14,3443,True,tv,KR,standard,TT-0126,False,True,True,0.9,2940,Fjord Crossing,series,Romance,Drama,49,TV-14,2016-04-07,false,,model_ready,holdout
+EV-003939,M-10072,TT-0030,2026-11-14,795,False,tablet,KR,standard,TT-0030,False,True,False,0.9,7080,Hotel Overbooked,film,Comedy,Thriller,118,R,2018-08-03,false,,model_ready,holdout
+EV-004007,M-10403,TT-0208,2026-11-14,1915,True,web,BR,kids,TT-0208,False,True,True,0.9,1500,Sunspot Skate Academy,series,Animation,,25,TV-Y7,2022-05-20,false,,model_ready,holdout
+EV-004030,M-10156,TT-0083,2026-11-14,2335,False,mobile,US,standard,TT-0083,True,True,True,0.9,5760,Last Pawn Ticket,film,Crime,Thriller,96,PG-13,2015-07-31,false,,model_ready,holdout
+EV-004224,M-10213,TT-0101,2026-11-14,408,False,tv,US,standard,TT-0101,False,True,False,0.9,6720,Open Water Crossing,film,Documentary,Action,112,PG-13,2023-05-10,false,,model_ready,holdout
+EV-004285,M-10467,TT-0248,2026-11-14,3574,True,tablet,US,standard,TT-0248,False,True,True,0.9,2760,Ember and Tallow,series,Fantasy,,46,TV-MA,2020-10-23,false,,model_ready,holdout
+EV-004528,M-10166,TT-0095,2026-11-14,1181,False,tv,US,standard,TT-0095,False,True,False,0.9,2640,Copper Ridge Detectives,series,Crime,Thriller,44,TV-14,2018-08-24,false,,model_ready,holdout
+EV-004662,M-10518,TT-0276,2026-11-14,189,False,tv,IN,standard,TT-0276,False,True,False,0.9,1320,Gravity Well Garage,series,Sci-Fi,,22,TV-Y7,2016-07-08,false,,model_ready,holdout
+EV-004819,M-10343,TT-0157,2026-11-14,319,False,tv,DE,standard,TT-0157,False,True,False,0.9,6060,Mirror Dune,film,Horror,Sci-Fi,101,R,2019-10-31,false,,model_ready,holdout
+EV-004886,M-10286,TT-0130,2026-11-14,357,False,tv,JP,standard,TT-0130,False,True,False,0.9,2280,Ink and Tides,series,Romance,Drama,38,TV-14,2024-05-17,false,,model_ready,holdout
+EV-004962,M-10025,TT-0006,2026-11-14,1408,False,mobile,CA,standard,TT-0006,False,True,False,0.9,2460,Paper Lanterns Street,series,Drama,,41,TV-14,2023-10-06,false,,model_ready,holdout
+EV-004987,M-10197,TT-0078,2026-11-14,1926,False,web,MX,standard,TT-0078,False,True,False,0.9,2640,Dead Letter Drop,series,Crime,Thriller,44,TV-MA,2016-11-08,false,,model_ready,holdout
+EV-000039,M-10516,TT-0258,2026-11-15,3480,False,tv,KR,standard,TT-0258,True,True,True,0.9,6120,Starlight Vows,film,Fantasy,,102,TV-14,2026-10-30,false,,model_ready,holdout
+EV-000102,M-10584,TT-0276,2026-11-15,411,False,tv,BR,standard,TT-0276,False,True,False,0.9,1320,Gravity Well Garage,series,Sci-Fi,,22,TV-Y7,2016-07-08,false,,model_ready,holdout
+EV-000131,M-10505,TT-0255,2026-11-15,2398,False,mobile,US,standard,TT-0255,True,True,True,0.9,3000,The Mirror Fen Chronicles,series,Fantasy,,50,TV-14,2018-08-30,false,,model_ready,holdout
+EV-000164,M-10147,TT-0061,2026-11-15,1625,False,tv,ES,standard,TT-0061,True,True,True,0.9,3300,Crosswind,series,Thriller,Action,55,TV-MA,2024-08-08,false,,model_ready,holdout
+EV-000350,M-10325,TT-0155,2026-11-15,2404,False,tv,DE,standard,TT-0155,True,True,True,0.9,5160,Dead Air Frequency,film,Horror,Documentary,86,TV-14,2025-10-17,false,,model_ready,holdout
+EV-000403,M-10493,TT-0051,2026-11-15,3387,True,tv,AU,standard,TT-0051,False,True,True,0.9,2580,Nine Minutes Past,series,Thriller,,43,TV-14,2017-11-22,false,,model_ready,holdout
+EV-000424,M-10556,TT-0282,2026-11-15,91,False,tv,US,standard,TT-0282,False,True,False,0.9,7620,Elevator Ninety,film,Sci-Fi,Crime,127,R,2020-09-04,false,,model_ready,holdout
+EV-000514,M-10468,TT-0232,2026-11-15,2599,True,mobile,US,standard,TT-0232,True,True,False,0.9,1800,Puppy Rescue Week,series,Reality,Documentary,30,TV-G,2018-11-08,false,,model_ready,holdout
+EV-000588,M-10286,TT-0138,2026-11-15,3041,False,mobile,FR,standard,TT-0138,False,True,False,0.9,7440,Vineyard Run,film,Romance,Action,124,PG-13,2022-08-12,false,,model_ready,holdout
+EV-000646,M-10028,TT-0005,2026-11-15,3455,False,tablet,US,standard,TT-0005,True,True,True,0.9,7620,The Long Quarry,film,Drama,,127,R,2015-04-24,false,,model_ready,holdout
+EV-000752,M-10290,TT-0132,2026-11-15,233,False,tv,US,standard,TT-0132,False,True,False,0.9,2820,Velvet Lanterns,series,Romance,,47,TV-MA,2025-10-24,false,,model_ready,holdout
+EV-000802,M-10392,TT-0178,2026-11-15,3064,True,tablet,US,standard,TT-0178,False,True,True,0.9,3000,Hammer and Tide,series,Action,Documentary,50,TV-14,2023-06-06,false,,model_ready,holdout
+EV-000916,M-10513,TT-0264,2026-11-15,2819,True,mobile,CA,standard,TT-0264,True,True,False,0.9,3060,Amberfall Tide,series,Fantasy,Action,51,TV-14,2023-08-25,false,,model_ready,holdout
+EV-001055,M-10090,TT-0047,2026-11-15,477,False,tv,CA,standard,TT-0047,False,True,False,0.9,1980,Bus Stop Confessions,series,Comedy,,33,TV-14,2019-05-31,false,,model_ready,holdout
+EV-001326,M-10441,TT-0207,2026-11-15,2445,True,tv,US,kids,TT-0207,True,True,False,0.9,1560,The Paper Cartographer,series,Animation,Documentary,26,TV-G,2025-06-06,false,,model_ready,holdout
+EV-001424,M-10058,TT-0035,2026-11-15,581,False,tv,GB,standard,TT-0035,False,True,False,0.9,6540,Plumber Plus One,film,Comedy,,109,PG-13,2021-12-03,false,,model_ready,holdout
+EV-001511,M-10403,TT-0201,2026-11-15,2261,False,web,MX,kids,TT-0201,True,True,True,0.9,5280,Snowcap Kitchen,film,Animation,,88,TV-G,2020-11-27,false,,model_ready,holdout
+EV-001844,M-10424,TT-0203,2026-11-15,2422,True,tv,US,kids,TT-0203,True,True,False,0.9,1440,Moonlit Dumpling Club,series,Animation,Comedy,24,TV-Y7,2024-02-19,false,,model_ready,holdout
+EV-001852,M-10050,TT-0276,2026-11-15,883,False,tv,DE,standard,TT-0276,False,True,False,0.9,1320,Gravity Well Garage,series,Sci-Fi,,22,TV-Y7,2016-07-08,false,,model_ready,holdout
+EV-001915,M-10258,TT-0127,2026-11-15,1365,False,tv,CA,standard,TT-0127,False,True,False,0.9,7260,Midnight Orchid,film,Romance,Thriller,121,R,2023-02-10,false,,model_ready,holdout
+EV-002005,M-10440,TT-0176,2026-11-15,401,False,tv,BR,kids,TT-0176,False,True,False,0.9,2640,Sky Marshal Nine,series,Action,Thriller,44,TV-14,2021-09-29,false,,model_ready,holdout
+EV-002189,M-10323,TT-0051,2026-11-15,2992,True,tv,DE,standard,TT-0051,True,True,False,0.9,2580,Nine Minutes Past,series,Thriller,,43,TV-14,2017-11-22,false,,model_ready,holdout
+EV-002265,M-10175,TT-0090,2026-11-15,230,False,tv,MX,standard,TT-0090,False,True,False,0.9,5640,The Last Confession Tape,film,Crime,,94,R,2020-11-13,false,,model_ready,holdout
+EV-002324,M-10356,TT-0188,2026-11-15,3116,True,tv,US,standard,TT-0188,True,True,False,0.9,1680,Rooftop Circuit,series,Action,Comedy,28,TV-14,2022-10-07,false,,model_ready,holdout
+EV-002355,M-10120,TT-0061,2026-11-15,3545,True,mobile,FR,standard,TT-0061,True,True,False,0.9,3300,Crosswind,series,Thriller,Action,55,TV-MA,2024-08-08,false,,model_ready,holdout
+EV-002429,M-10374,TT-0186,2026-11-15,519,False,tv,GB,standard,TT-0186,False,True,False,0.9,2580,Iron Orchard,series,Action,,43,TV-14,2019-08-30,false,,model_ready,holdout
+EV-002530,M-10023,TT-0014,2026-11-15,1753,False,tv,GB,standard,TT-0014,False,True,False,0.9,2940,Tangled Current,series,Drama,Thriller,49,TV-MA,2024-09-27,false,,model_ready,holdout
+EV-002644,M-10211,TT-0108,2026-11-15,1027,False,tablet,FR,standard,TT-0108,False,True,False,0.9,2280,Harvest Season Rivals,series,Documentary,Romance,38,TV-PG,2016-08-19,false,,model_ready,holdout
+EV-002650,M-10213,TT-0076,2026-11-15,3356,True,tv,US,standard,TT-0076,False,True,True,0.9,3120,Cold Brass Street,series,Crime,,52,TV-14,2017-06-22,false,,model_ready,holdout
+EV-002776,M-10242,TT-0116,2026-11-15,2748,False,mobile,IN,standard,TT-0116,False,True,False,0.9,7680,Cold Case Reel,film,Documentary,Crime,128,TV-MA,2017-11-10,false,,model_ready,holdout
+EV-002780,M-10231,TT-0120,2026-11-15,1984,True,web,US,standard,TT-0120,True,True,False,0.9,1440,Painted Cities,series,Documentary,Animation,24,TV-Y7,2021-04-16,false,,model_ready,holdout
+EV-002805,M-10410,TT-0051,2026-11-15,3159,True,web,FR,kids,TT-0051,True,True,False,0.9,2580,Nine Minutes Past,series,Thriller,,43,TV-14,2017-11-22,false,,model_ready,holdout
+EV-002959,M-10229,TT-0110,2026-11-15,3350,True,mobile,US,standard,TT-0110,True,True,False,0.9,3000,Pit Lane Breakdown,series,Documentary,Action,50,TV-14,2019-10-11,false,,model_ready,holdout
+EV-003100,M-10079,TT-0076,2026-11-15,3343,True,tv,US,standard,TT-0076,True,True,False,0.9,3120,Cold Brass Street,series,Crime,,52,TV-14,2017-06-22,false,,model_ready,holdout
+EV-003136,M-10119,TT-0064,2026-11-15,1160,False,tv,BR,standard,TT-0064,True,True,True,0.9,6720,Second Pulse,film,Thriller,Romance,112,R,2017-02-14,false,,model_ready,holdout
+EV-003145,M-10098,TT-0276,2026-11-15,904,False,tablet,AU,standard,TT-0276,False,True,False,0.9,1320,Gravity Well Garage,series,Sci-Fi,,22,TV-Y7,2016-07-08,false,,model_ready,holdout
+EV-003154,M-10212,TT-0107,2026-11-15,1296,False,tv,MX,standard,TT-0107,True,True,True,0.9,2760,Night Shift Medics,series,Documentary,Drama,46,TV-14,2023-10-06,false,,model_ready,holdout
+EV-003215,M-10211,TT-0110,2026-11-15,1642,False,tv,US,standard,TT-0110,True,True,True,0.9,3000,Pit Lane Breakdown,series,Documentary,Action,50,TV-14,2019-10-11,false,,model_ready,holdout
+EV-003234,M-10206,TT-0102,2026-11-15,1869,True,mobile,KR,standard,TT-0102,False,True,True,0.9,1380,Little Lighthouse Stories,series,Documentary,Animation,23,TV-Y7,2018-10-08,false,,model_ready,holdout
+EV-003342,M-10043,TT-0018,2026-11-15,1268,False,tv,CA,standard,TT-0018,False,True,False,0.9,5220,Little Rivers,film,Drama,,87,PG,2018-10-19,false,,model_ready,holdout
+EV-003354,M-10137,TT-0052,2026-11-15,732,False,mobile,DE,standard,TT-0052,False,True,False,0.9,6240,Low Tide Protocol,film,Thriller,Sci-Fi,104,PG-13,2024-05-17,false,,model_ready,holdout
+EV-003373,M-10264,TT-0129,2026-11-15,3115,False,tv,IN,standard,TT-0129,True,True,True,0.9,8040,The Ballad of Clara Vane,film,Romance,Fantasy,134,PG-13,2018-12-14,false,,model_ready,holdout
+EV-003418,M-10372,TT-0177,2026-11-15,52,False,mobile,GB,standard,TT-0177,False,True,False,0.9,5820,Dust Corridor,film,Action,,97,PG-13,2016-02-12,false,,model_ready,holdout
+EV-003608,M-10114,TT-0055,2026-11-15,3511,True,tv,BR,standard,TT-0055,True,True,False,0.9,3000,Ember Road,series,Thriller,Action,50,TV-14,2023-02-24,false,,model_ready,holdout
+EV-003637,M-10362,TT-0177,2026-11-15,867,False,tv,IN,standard,TT-0177,False,True,False,0.9,5820,Dust Corridor,film,Action,,97,PG-13,2016-02-12,false,,model_ready,holdout
+EV-003694,M-10400,TT-0183,2026-11-15,3370,True,mobile,US,standard,TT-0183,True,True,False,0.9,3300,Vantage Point Unit,series,Action,Drama,55,TV-MA,2020-12-18,false,,model_ready,holdout
+EV-003748,M-10199,TT-0026,2026-11-15,1801,True,tv,US,standard,TT-0026,True,True,False,0.9,1440,Parking Lot Philosophers,series,Comedy,Reality,24,TV-PG,2017-09-05,false,,model_ready,holdout
+EV-003750,M-10006,TT-0002,2026-11-15,2675,False,tv,FR,standard,TT-0002,False,True,False,0.9,6240,The Glass Orchard,film,Drama,,104,PG-13,2017-11-03,false,,model_ready,holdout
+EV-003992,M-10081,TT-0029,2026-11-15,611,False,web,US,standard,TT-0029,False,True,False,0.9,2520,The Understudy Diaries,series,Comedy,Drama,42,TV-MA,2023-01-20,false,,model_ready,holdout
+EV-004241,M-10055,TT-0026,2026-11-15,1890,True,tv,IN,standard,TT-0026,False,True,True,0.9,1440,Parking Lot Philosophers,series,Comedy,Reality,24,TV-PG,2017-09-05,false,,model_ready,holdout
+EV-004487,M-10574,TT-0278,2026-11-15,2338,False,tv,US,standard,TT-0278,True,True,True,0.9,3480,Synthetic Saints,series,Sci-Fi,Fantasy,58,TV-MA,2021-12-03,false,,model_ready,holdout
+EV-004500,M-10351,TT-0076,2026-11-15,2665,False,tv,GB,standard,TT-0076,True,True,True,0.9,3120,Cold Brass Street,series,Crime,,52,TV-14,2017-06-22,false,,model_ready,holdout
+EV-004559,M-10105,TT-0058,2026-11-15,1886,False,tv,AU,standard,TT-0058,True,True,True,0.9,6540,The Night Shift Ledger,film,Thriller,Crime,109,R,2025-10-09,false,,model_ready,holdout
+EV-004603,M-10555,TT-0283,2026-11-15,59,False,tv,IN,standard,TT-0283,False,True,False,0.9,2100,Orbit Bakehouse,series,Sci-Fi,,35,TV-PG,2024-08-30,false,,model_ready,holdout
+EV-004776,M-10517,TT-0257,2026-11-15,752,False,tv,BR,standard,TT-0257,False,True,False,0.9,2940,Gravel and Gold,series,Fantasy,Action,49,TV-14,2021-02-26,false,,model_ready,holdout
+EV-004844,M-10600,TT-0277,2026-11-15,1548,False,tv,US,standard,TT-0277,True,True,True,0.9,7080,The Long Quiet,film,Sci-Fi,Drama,118,PG-13,2024-01-19,false,,model_ready,holdout
+EV-004934,M-10443,TT-0215,2026-11-15,2731,False,tv,US,kids,TT-0215,True,True,True,0.9,5760,Stellar Puppy Patrol,film,Animation,Sci-Fi,96,TV-G,2021-10-08,false,,model_ready,holdout
+EV-004940,M-10061,TT-0034,2026-11-15,58,False,mobile,FR,standard,TT-0034,True,True,True,0.9,1380,Splash Zone Summer,series,Comedy,Romance,23,TV-G,2015-06-19,false,,model_ready,holdout
+EV-000111,M-10216,TT-0106,2026-11-16,1743,False,tv,US,standard,TT-0106,True,True,True,0.9,5040,Tidewater Kids,film,Documentary,Animation,84,TV-G,2018-07-27,false,,model_ready,holdout
+EV-000238,M-10537,TT-0176,2026-11-16,1560,False,tablet,KR,standard,TT-0176,True,True,True,0.9,2640,Sky Marshal Nine,series,Action,Thriller,44,TV-14,2021-09-29,false,,model_ready,holdout
+EV-000249,M-10573,TT-0280,2026-11-16,3411,False,tv,AU,standard,TT-0280,True,True,True,0.9,6360,Paper Moons,film,Sci-Fi,Romance,106,PG-13,2023-02-10,false,,model_ready,holdout
+EV-000319,M-10089,TT-0029,2026-11-16,2630,True,mobile,US,standard,TT-0029,True,True,False,0.9,2520,The Understudy Diaries,series,Comedy,Drama,42,TV-MA,2023-01-20,false,,model_ready,holdout
+EV-000721,M-10125,TT-0055,2026-11-16,2773,True,tv,IN,standard,TT-0055,True,True,False,0.9,3000,Ember Road,series,Thriller,Action,50,TV-14,2023-02-24,false,,model_ready,holdout
+EV-000914,M-10177,TT-0088,2026-11-16,3260,True,tv,ES,standard,TT-0088,True,True,False,0.9,1800,Night Bus Syndicate,series,Crime,Comedy,30,TV-14,2017-02-10,false,,model_ready,holdout
+EV-001059,M-10490,TT-0276,2026-11-16,1939,True,tablet,US,standard,TT-0276,True,True,False,0.9,1320,Gravity Well Garage,series,Sci-Fi,,22,TV-Y7,2016-07-08,false,,model_ready,holdout
+EV-001317,M-10255,TT-0130,2026-11-16,1721,False,tv,US,standard,TT-0130,True,True,True,0.9,2280,Ink and Tides,series,Romance,Drama,38,TV-14,2024-05-17,false,,model_ready,holdout
+EV-001531,M-10257,TT-0128,2026-11-16,1493,False,mobile,CA,standard,TT-0128,False,True,False,0.9,2460,Sunday Supper Club,series,Romance,Reality,41,TV-PG,2021-09-03,false,,model_ready,holdout
+EV-001712,M-10012,TT-0007,2026-11-16,311,False,web,US,standard,TT-0007,False,True,False,0.9,3000,Second Winter,series,Drama,Thriller,50,TV-MA,2025-01-10,false,,model_ready,holdout
+EV-001801,M-10467,TT-0228,2026-11-16,2792,False,tv,AU,standard,TT-0228,True,True,True,0.9,5280,Garden Shed Showdown,film,Reality,Comedy,88,TV-G,2016-06-03,false,,model_ready,holdout
+EV-001832,M-10360,TT-0184,2026-11-16,2120,False,tv,AU,standard,TT-0184,True,True,True,0.9,8040,Last Lighthouse,film,Action,Fantasy,134,PG-13,2023-10-13,false,,model_ready,holdout
+EV-001916,M-10237,TT-0276,2026-11-16,3143,True,mobile,GB,standard,TT-0276,False,True,True,0.9,1320,Gravity Well Garage,series,Sci-Fi,,22,TV-Y7,2016-07-08,false,,model_ready,holdout
+EV-001932,M-10529,TT-0076,2026-11-16,429,False,tv,BR,standard,TT-0076,False,True,False,0.9,3120,Cold Brass Street,series,Crime,,52,TV-14,2017-06-22,false,,model_ready,holdout
+EV-001968,M-10306,TT-0175,2026-11-16,3362,False,tablet,MX,kids,TT-0175,True,True,True,0.9,6300,Night Convoy,film,Action,Crime,105,R,2024-05-17,false,,model_ready,holdout
+EV-001991,M-10159,TT-0080,2026-11-16,3386,True,mobile,US,kids,TT-0080,True,True,False,0.9,2760,Shadow Route Nine,series,Crime,Action,46,TV-14,2022-08-12,false,,model_ready,holdout
+EV-002404,M-10179,TT-0084,2026-11-16,2421,True,tv,GB,kids,TT-0084,False,True,True,0.9,2520,Open Grave Files,series,Crime,Horror,42,TV-MA,2025-10-10,false,,model_ready,holdout
+EV-002733,M-10258,TT-0130,2026-11-16,1949,False,tablet,CA,standard,TT-0130,True,True,True,0.9,2280,Ink and Tides,series,Romance,Drama,38,TV-14,2024-05-17,false,,model_ready,holdout
+EV-002787,M-10301,TT-0163,2026-11-16,1198,False,tv,GB,standard,TT-0163,False,True,False,0.9,6240,Pale Harvest,film,Horror,Crime,104,R,2026-10-09,false,,model_ready,holdout
+EV-002937,M-10588,TT-0277,2026-11-16,2639,False,mobile,ES,standard,TT-0277,False,True,False,0.9,7080,The Long Quiet,film,Sci-Fi,Drama,118,PG-13,2024-01-19,false,,model_ready,holdout
+EV-003416,M-10487,TT-0226,2026-11-16,1561,False,tv,FR,standard,TT-0226,False,True,False,0.9,2700,Lisbon Bake Off,series,Reality,Comedy,45,TV-PG,2017-04-23,false,,model_ready,holdout
+EV-003417,M-10538,TT-0254,2026-11-16,576,False,tv,US,standard,TT-0254,False,True,False,0.9,3480,Harrowgate Oath,series,Fantasy,Drama,58,TV-MA,2026-03-12,false,,model_ready,holdout
+EV-003473,M-10102,TT-0026,2026-11-16,3372,True,tv,US,standard,TT-0026,True,True,False,0.9,1440,Parking Lot Philosophers,series,Comedy,Reality,24,TV-PG,2017-09-05,false,,model_ready,holdout
+EV-003528,M-10593,TT-0283,2026-11-16,954,False,web,US,standard,TT-0283,False,True,False,0.9,2100,Orbit Bakehouse,series,Sci-Fi,,35,TV-PG,2024-08-30,false,,model_ready,holdout
+EV-003651,M-10396,TT-0184,2026-11-16,1761,False,tv,MX,standard,TT-0184,True,True,True,0.9,8040,Last Lighthouse,film,Action,Fantasy,134,PG-13,2023-10-13,false,,model_ready,holdout
+EV-004125,M-10014,TT-0076,2026-11-16,2858,True,tablet,GB,standard,TT-0076,True,True,False,0.9,3120,Cold Brass Street,series,Crime,,52,TV-14,2017-06-22,false,,model_ready,holdout
+EV-004338,M-10207,TT-0115,2026-11-16,1499,False,tablet,JP,standard,TT-0115,False,True,False,0.9,1860,Backstage Wardrobe,series,Documentary,Comedy,31,TV-14,2024-06-07,false,,model_ready,holdout
+EV-004492,M-10127,TT-0001,2026-11-16,2740,False,web,GB,standard,TT-0001,True,True,True,0.9,7080,The Salt Ledger,film,Drama,Thriller,118,R,2019-03-08,false,,model_ready,holdout
+EV-004533,M-10265,TT-0130,2026-11-16,2038,False,tablet,CA,standard,TT-0130,True,True,True,0.9,2280,Ink and Tides,series,Romance,Drama,38,TV-14,2024-05-17,false,,model_ready,holdout

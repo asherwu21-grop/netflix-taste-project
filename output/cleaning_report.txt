@@ -1,0 +1,41 @@
+NETFLIX VIEWING EVENTS CLEANING REPORT
+======================================
+Original input rows: 5000
+Exact duplicate rows removed: 0
+Unique events after exact deduplication: 5000
+Excluded unique events: 398
+Model-ready events: 4602
+  Training events: 4265
+  Holdout events: 337
+
+Cutoff date: 2026-11-10
+Raw date partition before cleaning: train=4622, holdout=378
+Training date range: 2026-08-17 to 2026-11-09
+Holdout date range: 2026-11-10 to 2026-11-16
+
+Unmatched-title events: 180
+Unmatched title ID counts: {"TT-0347": 61, "TT-0412": 65, "TT-0588": 54}
+Catalog titles missing usable runtime: 10
+Completion flags recomputed: 4602
+Completion flags changed: 1817
+
+Exclusion reason counts (non-exclusive; one event may have multiple reasons):
+  missing_catalog_runtime: 104
+  missing_watch_seconds: 74
+  unmatched_title_id: 180
+  watch_seconds_over_threshold: 46
+
+Validation checks:
+  PASS: all_input_rows_accounted_for
+  PASS: no_train_holdout_event_id_overlap
+  PASS: train_ends_before_cutoff
+  PASS: holdout_starts_on_or_after_cutoff
+  PASS: all_model_ready_events_have_catalog_runtime
+  PASS: all_model_ready_events_have_valid_watch_seconds
+  PASS: all_model_ready_events_have_recomputed_completion
+
+Assumptions:
+  - Exclude watch_seconds > 14400.
+  - Recompute completion at 90% of catalog runtime.
+  - Exclude events with missing duration, unmatched title IDs, or missing usable catalog runtime from model-ready data.
+  - Preserve excluded events in audit outputs; do not modify raw inputs.

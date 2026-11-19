@@ -1,0 +1,63 @@
+{
+  "input_events": 5000,
+  "exact_duplicate_rows_removed": 0,
+  "unique_events_after_exact_deduplication": 5000,
+  "model_ready_events": 4602,
+  "excluded_unique_events": 398,
+  "train_events": 4265,
+  "holdout_events": 337,
+  "cutoff_date": "2026-11-10",
+  "raw_train_date_partition_count_before_cleaning": 4622,
+  "raw_holdout_date_partition_count_before_cleaning": 378,
+  "train_date_range": [
+    "2026-08-17",
+    "2026-11-09"
+  ],
+  "holdout_date_range": [
+    "2026-11-10",
+    "2026-11-16"
+  ],
+  "unmatched_title_events": 180,
+  "unmatched_title_id_counts": {
+    "TT-0412": 65,
+    "TT-0588": 54,
+    "TT-0347": 61
+  },
+  "catalog_titles": 300,
+  "catalog_titles_missing_usable_runtime": 10,
+  "completion_flags_recomputed": 4602,
+  "completion_flags_changed": 1817,
+  "completion_recomputed_counts": {
+    "False": 3437,
+    "True": 1165
+  },
+  "original_completed_counts": {
+    "false": 2552,
+    "true": 2448
+  },
+  "exclusion_reason_counts_nonexclusive": {
+    "unmatched_title_id": 180,
+    "missing_watch_seconds": 74,
+    "watch_seconds_over_threshold": 46,
+    "missing_catalog_runtime": 104
+  },
+  "validation": {
+    "all_input_rows_accounted_for": true,
+    "no_train_holdout_event_id_overlap": true,
+    "train_ends_before_cutoff": true,
+    "holdout_starts_on_or_after_cutoff": true,
+    "all_model_ready_events_have_catalog_runtime": true,
+    "all_model_ready_events_have_valid_watch_seconds": true,
+    "all_model_ready_events_have_recomputed_completion": true
+  },
+  "assumptions": {
+    "cutoff_date": "2026-11-10",
+    "max_watch_seconds_exclusive_upper_bound": 14400,
+    "completion_threshold": 0.9,
+    "missing_watch_seconds": "exclude from model-ready data and retain in excluded_events.csv",
+    "excessive_watch_seconds": "exclude values strictly greater than max_watch_seconds",
+    "unmatched_title_ids": "exclude from model-ready data and retain in unmatched_titles.csv",
+    "missing_catalog_runtime": "exclude because completed cannot be recomputed consistently from runtime",
+    "completion_rule": "completed=True when watch_seconds >= runtime_seconds * completion_threshold"
+  }
+}
